@@ -1,2 +1,1 @@
-# app-blog-strapi
-Strapi Blog
+# Strapi Blog
